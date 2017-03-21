@@ -37,6 +37,10 @@ function palindromo(cadena) {
   return cadena.toLowerCase() === invertirCadena(cadena).toLowerCase();
 }
 
+function palindromo(cadena) {
+  return cadena.toLowerCase() === invertirCadena(cadena).toLowerCase();
+}
+
 console.log(contarCaracteres(cadenaUsuario));
 console.log(candenaMayusculas(cadenaUsuario));
 console.log(candenaMinusculas(cadenaUsuario));
