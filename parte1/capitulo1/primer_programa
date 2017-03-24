@@ -1,0 +1,20 @@
+Comienzo
+  Añadir agua en una cacerola
+  Añadir sal
+  Poner la cacerola en el fuego
+  Mientas que el agua no hierva
+    Esperar
+  Añadir la pasta a la cacerola
+  Mientas que la pasta no esté hecha
+    Esperar
+  Escurrir la pasta con un coladero
+  Servir la pasta en un plato
+  Probar
+  Mientras que la pasta esté sosa,
+    Añadir sal
+    Probar
+  Si preferimos el tomate al queso
+    Añadir el tomate
+  Si no
+    Añadir el queso
+Fin
