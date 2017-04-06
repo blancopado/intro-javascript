@@ -62,10 +62,10 @@ Enemigo.initEnemigo = function (nombre, vida, fuerza, raza, cantidadXp) {
 };
 
 var jugador1 = Object.create(Jugador);
-jugador1.initJugador("Diego", 150, 25);
+jugador1.initJugador("Héroe", 150, 25);
 
 var jugador2 = Object.create(Jugador);
-jugador2.initJugador("Coco", 130, 35);
+jugador2.initJugador("Mago", 130, 35);
 
 
 console.log(jugador1.describir());
