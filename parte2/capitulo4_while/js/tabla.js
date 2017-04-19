@@ -1,3 +1,5 @@
+// 3. Muestra la tabla de multiplicar del número elegido
+
 var numero = 0; // Valor inicial que permite entrar en el bucle
 
 while (numero < 2 || numero > 10) {
