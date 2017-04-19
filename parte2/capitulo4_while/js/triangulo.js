@@ -4,7 +4,7 @@ var linea = "";
 var i = 1;
 while (i <= 7) {
     linea = linea + "*"; // Otra posibilidad es usar el operador +=
-    // linea += "#";
+    // linea += "*";
     console.log(linea);
     i++;
 }
